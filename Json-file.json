@@ -1,0 +1,18 @@
+{
+"response": {
+"count": 5942704,
+"items": [{
+"first_name": "Максим",
+"id": 645948677,
+"last_name": "Делорзов",
+"can_access_closed": false
+
+}, {
+"first_name": "Александр",
+"id": 320934998,
+"last_name": "Пашуткин",
+"can_access_closed": true
+
+}]
+}
+}
